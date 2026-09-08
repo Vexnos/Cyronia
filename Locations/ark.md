@@ -2,7 +2,7 @@
 ![The Ark](../src/locations/TheArk_GasGiant_3.png)
 
 ## Description
-The Ark is a large megastructure composed of a central ring with 6 arms branching off. One side of the ark houses an adaptable biosphere which can be adjusted for the needs of the inhabiting species.
+The Ark is a large megastructure composed of a central ring with 6 arms branching off, spanning approximately the length of Uranus. One side of the ark houses an adaptable biosphere which can be adjusted for the needs of the inhabiting species.
 
 It was designed to preserve endangered sapient species whom the Curators would forcibly relocate onto the megastructure. Afterwards, they'd generally not intefere in that species affairs, aside from the occasional moral lecture.
 
@@ -22,3 +22,6 @@ The Ark was constructed by the Curators in the Zol'Nozh system through the destr
 The [Cyroni](../Factions/Cyronia/cyroni.md) were the first and only sapient species to be hosted on the Ark. Samples of flora and fauna of Cy’rie were transported to the Ark to avoid their extinction. Ever since the Cyroni achieved space travel, they have always been curious about the Citadel and have made many attempts over the centuries to enter it with little success as it is heavily secured.
 
 At present, the Ark orbits a Jupiter-Sized gas giant in a highly elliptical polar orbit. 
+
+## Size
+![Ark vs Earth](../src/size/ark_earth.png)
