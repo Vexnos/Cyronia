@@ -7,6 +7,9 @@ VEIL-capable ships use a fairly rudimentary device known as an ‘Extradimension
 
 The minimum class of a VEIL-capable ship is a corvette. Fighters and Shuttles are not VEIL-capable as they are too small to house the necessary parts. In theory, ships with larger and better reactors are faster in VEIL-space, but in practise, it also depends on other design considerations for your ship. A much more advanced race could in theory build a frigate-sized ship capable of VEIL-5 because of better reactors.
 
+## What Physics Shields Are Not
+They are not defensive shields. That kind of technology is very high tech in this universe. They are not near powerful nor suited to stopping high-speed kinetic or energy projectiles.
+
 ## Where You Can Enter VEIL
 The basic rule is: Gravity Wells influence your ability to enter VEIL. Think of gravity wells like islands in an ocean, you can't go too deep, otherwise you hit the bottom of the ocean. This means that the further away from gravity wells you are, the deeper into VEIL you can go. This is another reason why VEIL-9 is impractical, because it could never be used except maybe between galaxies.
 
