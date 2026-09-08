@@ -7,7 +7,7 @@ Where 'A' is the class of the ship and 'B' is the subclass.
 
 | Ship Class | Subclasses (if any) | Naming Convention | Noteworthy Ships | Description |
 | ---------- | ------------------- | ----------------- | ---------------- | ----------- |
-| Colossus | Demolitor Class | Lost Worlds | CS-D001 - "Hammer of Klustas"<br>CS-D003 - "Justice of Khi'Rhihon" | A powerful superweapon which can crack planets. They were used in the last days of the war. Only three were made with one fighting at the battle of Ottokaara and the other two fighting at the battle of Zol'Nozh.
+| Colossus | Demolitor Class | Lost Worlds | CS-D001 - "Hammer of Klustas"<br>CS-D003 - "Justice of Khi'Rhihon" | A powerful superweapon which can crack planets. They were used in the last days of the war. Only three were made with one fighting at the battle of Ottokaara and the other two fighting at the battle of [Zol'Nozh](../../Locations/zolnozh.md).
 | Fortress | Hermes Class | War Heroes<br>Volcanoes | FH-0047 - "Sword of Zanith" | A unique command ship used as the anchor and bulwark of a fleet. All strategic operations will filter through this ship. Zol'Nos admirals will often use them for Flagships. |
 | Cruisers | Kronos Class | Leaders<br>Conquered Worlds | CK-1847 - "Protessi" | The primary workhorse of the navy. Used in fleet operations, subjugation and exploration.
 | Carriers | Atlas Class | Nebulae | | Never seen solo. Carriers escort fleets with a large fighter complement.
