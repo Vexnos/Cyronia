@@ -1,4 +1,6 @@
 # Cyronian Navy
+<img src='../../src/flags/Cyronia_Flag_9.png' alt='Naval Flag' width=150>
+
 Registration Convention: ABC-####
 
 Where A is the role of the ship (i.e., naval, experimental, scientific, logistic), B is the class and C is the subclass.
