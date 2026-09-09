@@ -2,7 +2,7 @@
 ![Zol'Nozh](../src/locations/ZolNozh_HighQuality_2.png)
 
 ## Description
-A once beautiful world, now scarred during the events of the [Great Destabilization](../Events/Galactic/great_destabilization.md). Zol'Nozh: The home of the Zol'Nos and their great empire. The world orbits the reknown quasar known as "Zol'Quos" which itself lies within a massive nebula, created from the Great Destabilization. The centre of the nebula has been cleaned out by the quasar over time, the nebula now essentially acting as a 'shell' for the system.
+A once beautiful world, now scarred during the events of the [Great Destabilization](../Lore/History/Events/Galactic/great_destabilization.md). Zol'Nozh: The home of the Zol'Nos and their great empire. The world orbits the reknown quasar known as "Zol'Quos" which itself lies within a massive nebula, created from the Great Destabilization. The centre of the nebula has been cleaned out by the quasar over time, the nebula now essentially acting as a 'shell' for the system.
 
 ## Life On Zol'Nos
 Life is tricky for most citizens on the planet. Most of the lower class struggle to get by. Mandatory conscription often sees families separated. Emperor Matrixier distributes aid to struggling provinces where possible. Due to the severe resource shortages, colonies are required to donate 40% of their resources to the capital. Industrialisation is high, prisoners of war that have no informational value are sent to work in mines, factories and shipyards on the planet and its moon. Conquered worlds are scourged and resources shipped back to Zol'Nos.
