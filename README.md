@@ -12,3 +12,42 @@ One day, the Curators were ready to unveil their most sophisticated technology y
 
 ## Map
 <p align='center'><img src='src/maps/Map_1.png' alt='Gemelos Map'></p>
+
+## Contents
+- Factions
+    - [Callaran Commerce Union](./Factions/Callara/callaran.md)
+    - [Curators](./Factions/Curators/curators.md)
+    - Commonwealth of Cyronia
+        - [Info](./Factions/Cyronia/cyroni.md)
+        - [Navy](./Factions/Cyronia/navy.md)
+    - [Floran Domain](./Factions/Florans/floran.md)
+    - [Lu'So Empire](./Factions/LuSo/luso.md)
+    - Niox Dominion
+        - [Info](./Factions/Niox/niox.md)
+        - [Navy](./Factions/Niox/navy.md)
+    - [Optok Hive](./Factions/Optok/optok.md)
+    - Arch of Ottokaara
+        - [Info](./Factions/Ottokaara/ottokaara.md)
+        - [Navy](./Factions/Ottokaara/navy.md)
+    - [Unkindred](./Factions/Unkindred/unkindred.md)
+    - [Zilkar States](./Factions/Zilkar/zilkar.md)
+    - Zol'Nos Empire
+        - [Info](./Factions/ZolNos/zolnos.md)
+        - [Navy](./Factions/ZolNos/navy.md)
+- Locations
+    - [The Ark](./Locations/ark.md)
+    - [The Nexus](./Locations/nexus.md)
+    - [Ottokaara](./Locations/ottokaara.md)
+    - [Zol'Nozh](./Locations/zolnozh.md)
+- Lore
+    - History
+        - Events
+            - Galactic
+                - [The War of the Ancients](./Lore/History/Events/Galactic/ancient_war.md)
+                - [The Great Destabilization](./Lore/History/Events/Galactic/great_destabilization.md)
+    - Tech
+        - VEIL
+            - [Communication (GCRN)](./Lore/Tech/VEIL/communication.md)
+            - [Dead Zones](./Lore/Tech/VEIL/dead_zones.md)
+            - [VEIL Dwellers](./Lore/Tech/VEIL/veil_dwellers.md)
+            - [VEIL](./Lore/Tech/VEIL/veil.md)
