@@ -7,7 +7,7 @@ Red represents the stained grounds of their homeworld Zol’Nozh and the vow of 
 ## Info
 The Zol'Nos are a warrior species, not the brightest species on average, but incredibly adaptive and cunning. They are lead by a single leader whose title is “Imperator Aeternus”. Their homeworld ([Zol'Nozh](../../Locations/zolnozh.md)) is barren, and scarred with a large crack embedded in the surface (think Mustafar but slightly more habitable). 
 
-This species based their technology off of a Curator Ship stationed on the planet’s surface. The ship’s reactor is still operational, but its engines have long been rendered inoperable. The ship is used as the centre of Zol’Nos leadership and scientific endeavours.
+This species based their technology off of a [Curator](../Curators/curators.md) Ship stationed on the planet’s surface. The ship’s reactor is still operational, but its engines have long been rendered inoperable. The ship is used as the centre of Zol’Nos leadership and scientific endeavours.
 
 ## Style
 ### Features

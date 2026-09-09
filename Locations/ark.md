@@ -4,7 +4,7 @@
 ## Description
 The Ark is a large megastructure composed of a central ring with 6 arms branching off, spanning approximately the length of Uranus. One side of the ark houses an adaptable biosphere which can be adjusted for the needs of the inhabiting species.
 
-It was designed to preserve endangered sapient species whom the Curators would forcibly relocate onto the megastructure. Afterwards, they'd generally not intefere in that species affairs, aside from the occasional moral lecture.
+It was designed to preserve endangered sapient species whom the [Curators](../Factions/Curators/curators.md) would forcibly relocate onto the megastructure. Afterwards, they'd generally not intefere in that species affairs, aside from the occasional moral lecture.
 
 In the centre of the ring lies the Citadel, a large superstructure; about the length of Ireland, acting as the control-centre of the Ark.
 

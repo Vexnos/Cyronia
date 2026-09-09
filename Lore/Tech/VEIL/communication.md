@@ -1,5 +1,5 @@
 # Galactic Communication
-The Galactic Communication Relay Network (GCRN) was established by the Curators via a network of megastructural-sized relays spread across the galaxy. These relays had the ability to peer into [VEIL](./veil.md) to send signals across the galaxy. Each relay in realspace would have a counterpart relay in its equivalent position in VEIL. The VEIL relays can communicate with each other within VEIL. 
+The Galactic Communication Relay Network (GCRN) was established by the [Curators](../../../Factions/Curators/curators.md) via a network of megastructural-sized relays spread across the galaxy. These relays had the ability to peer into [VEIL](./veil.md) to send signals across the galaxy. Each relay in realspace would have a counterpart relay in its equivalent position in VEIL. The VEIL relays can communicate with each other within VEIL. 
 
 If you wanted to send a signal, it would first travel to the realspace relay where it would be redirected to the relay in VEIL. The signal would be sent to its target relay and that relay would send the signal to its realspace counterpart, then to the recipient. 
 
