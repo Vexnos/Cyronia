@@ -37,6 +37,7 @@ One day, the Curators were ready to unveil their most sophisticated technology y
 - Locations
     - [The Ark](./Locations/ark.md)
     - [The Nexus](./Locations/nexus.md)
+    - [Otoki](./Locations/otoki.md)
     - [Ottokaara](./Locations/ottokaara.md)
     - [Zol'Nozh](./Locations/zolnozh.md)
 - Lore
@@ -52,3 +53,5 @@ One day, the Curators were ready to unveil their most sophisticated technology y
             - [Dead Zones](./Lore/Tech/VEIL/dead_zones.md)
             - [VEIL Dwellers](./Lore/Tech/VEIL/veil_dwellers.md)
             - [VEIL](./Lore/Tech/VEIL/veil.md)
+- Size
+    - [All Planets](./Size/Planets/all_planets.md)
