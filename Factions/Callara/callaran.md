@@ -1,6 +1,6 @@
 # Callaran Commerce Union (CCU)
-## Flags
-TODO
+## Flag
+<img src='../../src/flags/Callaran_Flag.png' alt='Callaran Flag' width=150>
 
 ## Info
 The Callarans are a unique oddity among the galaxy, being what amounts to human-sized gelatinous orange blobs without any kind of face. Their government is unique in how it runs like a corporation rather than a standard government. Their capital, Callara is a large-mobile ecumenopolis featuring many attractions and even giving the [Niox](../Niox/niox.md)’s [Nexus](../../Locations/nexus.md) a run for its money. They allow all races to browse and trade on Callara, unless of course they disturb the peace. 
