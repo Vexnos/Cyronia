@@ -1,5 +1,8 @@
 # Zol'Nos Empire
+## Flag
 <img src='../../src/flags/ZolNos_Flag_2.png' alt='ZolNos Flag' width=150>
+
+Red represents the stained grounds of their homeworld Zol’Nozh and the vow of revenge against the galaxy. Yellow represents the accretion disk around the black hole. Black represents the unconquered space of the galaxy. The three stars at the top represent the Zol’Nos military venturing and conquering space. The central star represents the pride and culture of the Zol’Nos (and unknowingly represents the location of the Galactic Forge Portal).
 
 ## Info
 The Zol'Nos are a warrior species, not the brightest species on average, but incredibly adaptive and cunning. They are lead by a single leader whose title is “Imperator Aeternus”. Their homeworld ([Zol'Nozh](../../Locations/zolnozh.md)) is barren, and scarred with a large crack embedded in the surface (think Mustafar but slightly more habitable). 
