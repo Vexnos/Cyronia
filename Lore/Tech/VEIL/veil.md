@@ -15,6 +15,8 @@ The basic rule is: Gravity Wells influence your ability to enter VEIL. Think of 
 
 What does this look like in practise? You cannot enter VEIL in low-planetary orbit. For stars, just don't go ridiculously close. Stay far away from black holes. 
 
+Entering VEIL takes mere seconds for most standard capital ships.
+
 ## Levels
 VEIL exists in multiple levels. The deeper the level, the faster you travel across the galaxy. The Curators reached all 9 VEIL levels, but practically only used up to VEIL-5 as the cost for travelling to levels deeper than VEIL-5 far outweighed any time gain. The current galaxy is at VEIL-1, they do not know about the higher levels.
 
