@@ -5,7 +5,7 @@
 Green represents their organic components and purple represents their machine-like components and how the two were merged together by the [Curators](../Curators/curators.md). The White Helmet represents how they believed their ancient benefactors appeared and the Niox’s direct claim to the Curators’ inheritance. The symbol on the helmet’s head represents the knowledge and wisdom of the Curators.
 
 ## Info
-The Niox are a materialist synthoid species, blurring the known lines between organic and synthetic. Homeworld is entirely machine and split into different layers orbiting the core. The Niox are individualistic, their political structure culminates in the Nexus; a forum where each voice contributes to the benefit of the empire. 
+The Niox are a materialist synthoid species, blurring the known lines between organic and synthetic. Their homeworld (known as the [Nexus](../../Locations/nexus.md)) is entirely machine and split into different layers orbiting the core. The Niox are individualistic, their political structure culminates in the Nexus; a forum where each voice contributes to the benefit of the empire. 
 
 ## Style
 ### Features
