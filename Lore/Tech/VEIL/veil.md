@@ -18,7 +18,25 @@ What does this look like in practise? You cannot enter VEIL in low-planetary orb
 Entering VEIL takes mere seconds for most standard capital ships.
 
 ## Levels
-VEIL exists in multiple levels. The deeper the level, the faster you travel across the galaxy. The [Curators](../../../Factions/Curators/curators.md) reached all 9 VEIL levels, but practically only used up to VEIL-5 as the cost for travelling to levels deeper than VEIL-5 far outweighed any time gain. The current galaxy is at VEIL-1, they do not know about the higher levels.
+VEIL exists in multiple levels. The deeper the level, the faster you travel across the galaxy. The [Curators](../../../Factions/Curators/curators.md) reached all 9 VEIL levels, but practically only used up to VEIL-5 as the cost for travelling to levels deeper than VEIL-5 far outweighed any time gain in interstellar travel. The current galaxy is at VEIL-2, they have not confirmed the existence of higher levels, but suspect they exist.
+
+## VEIL Speeds
+Speed Formula: `y=100x^4+300`
+
+Gemelos Length: `79,600` Light Years
+
+| Level | Speed (Light Years / Day) | Time To Cross Galaxy (Days) |
+| ----- | ----- | --------------------------- |
+| V0 | --REALSPACE-- | N/A |
+| V1 | 400 | 199.00 |
+| V2 | 1900 | 41.90 |
+| V3 | 8400 | 9.50 |
+| V4 | 25900 | 3.10 |
+| V5 | 62800 | 1.30 |
+| V6 | 129900 | 0.61 (14.5 Hrs) |
+| V7 | 240400 | 0.33 (7.9 Hrs) |
+| V8 | 409900 | 0.19 (4.5 Hrs) |
+| V9 | 656400 | 0.12 (2.9 Hrs) |
 
 ## Communication
 For communication information, go [here](./communication.md).
