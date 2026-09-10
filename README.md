@@ -53,6 +53,7 @@ One day, the Curators were ready to unveil their most sophisticated technology y
         - VEIL
             - [Communication (GCRN)](./Lore/Tech/VEIL/communication.md)
             - [Dead Zones](./Lore/Tech/VEIL/dead_zones.md)
+            - [Pocket Dimensions](./Lore/Tech/VEIL/pocket_dimensions.md)
             - [VEIL Dwellers](./Lore/Tech/VEIL/veil_dwellers.md)
             - [VEIL](./Lore/Tech/VEIL/veil.md)
 - Size

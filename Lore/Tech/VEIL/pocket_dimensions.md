@@ -1,0 +1,2 @@
+# Pocket Dimensions
+Pocket Dimensions, such as [VEIL](./veil.md) -1 or VEIL -2 were much more peaceful levels in VEIL. This made them suitable for settlements and other facilities. It is important to note that negative VEIL depths are a lot harder to reach than traditional depths, a large enough black hole is almost certainly required for this feat.
