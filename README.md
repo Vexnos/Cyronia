@@ -11,7 +11,7 @@ Welcome to Gemelos; a galaxy with two galactic nuclei. Thousands of years ago, t
 One day, the Curators were ready to unveil their most sophisticated technology yet: The Forge. A massive megastructure, being able to harness the energy of the [Zol'Quos](Locations/zolnozh.md) quasar. It was capable of using Hard Light to manipulate matter to forge almost anything. Unfortunately the Megastructure malfunctioned, the reason for this is unknown. This rapidly destabilized the [VEIL](Lore/Tech/VEIL/veil.md), causing all permanent entrance portals linking to their settlements to collapse, locking the Curators away forever. Seemingly overnight, the most powerful species in the galaxy just disappeared. Thousands of years later, the sapient species that remain, race to claim the massive inheritance of the Curators.
 
 ## Map
-<p align='center'><img src='src/maps/Map_1.png' alt='Gemelos Map'></p>
+<p align='center'><img src='src/maps/Map_Flags.png' alt='Gemelos Map'></p>
 
 ## Contents
 - Factions
