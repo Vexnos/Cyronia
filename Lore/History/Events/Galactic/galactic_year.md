@@ -1,5 +1,5 @@
 # Standardizing the Galactic Year
-The [Curators](../../../../Factions/Curators/curators.md) set the galactic standard year on the year it took their homeworld to orbit their star because who was gonna argue against it anyways. This was 289.35 24 Hour Days.
+The [Curators](../../../../Factions/Curators/curators.md) set the galactic standard year on the year it took their homeworld to orbit their star because who was gonna argue against it anyways. This was 289.35 32 Hour Days.
 
 At some point, the Curators decided to demolish their homeworld and rebuild it into megastructure inside VEIL -2 for their main settlement. This removed the ability to measure the galactic standard year. Once the Curators disappeared, there was no one left to enforce this.
 
