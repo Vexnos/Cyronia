@@ -47,6 +47,8 @@ One day, the Curators were ready to unveil their most sophisticated technology y
                 - [The War of the Ancients](./Lore/History/Events/Galactic/ancient_war.md)
                 - [Setting the Galactic Standard Year](./Lore/History/Events/Galactic/galactic_year.md)
                 - [The Great Destabilization](./Lore/History/Events/Galactic/great_destabilization.md)
+            - War
+                - [The Great Galactic War](./Lore/History/Events/War/galactic_war.md)
     - Tech
         - VEIL
             - [Communication (GCRN)](./Lore/Tech/VEIL/communication.md)
