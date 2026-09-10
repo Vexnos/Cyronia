@@ -2,7 +2,7 @@
 <p align='center'><img src='src/logos/logo_white.png' alt='Cyronia Logo' width=200></p>
 
 <p align='center'>
-Welcome to Project Cyronia, the rebirth of an old science fiction project started in 2017. This project aims to reconstruct the old AOAC project in a more concise and consistent form.
+Welcome to Project Cyronia, a conceptual science-fiction project.
 </p>
 
 ## The State of the Galaxy
