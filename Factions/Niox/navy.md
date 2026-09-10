@@ -1,4 +1,4 @@
-# Cyronian Navy
+# Niox Navy
 <img src='../../src/flags/Niox_Flag_3.png' alt='Niox Flag' width=150>
 
 ## Registration Convention
