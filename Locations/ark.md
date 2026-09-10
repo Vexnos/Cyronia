@@ -8,7 +8,7 @@ It was designed to preserve endangered sapient species whom the [Curators](../Fa
 
 In the centre of the ring lies the Citadel, a large superstructure; about the length of Ireland, acting as the control-centre of the Ark.
 
-The Ark rotates clockwise on its X axis every 32 hours to provide a day/night cycle.
+The Ark rotates clockwise on its X axis every 30 hours to provide a day/night cycle.
 
 ## Propulsion
 The Ark is the largest object capable of [VEIL](../Lore/Tech/VEIL/veil.md) travel. Being able to achieve a max depth of VEIL-2. It should be noted that this requires immense power and the Ark will need time to recharge before it can enter VEIL again.
