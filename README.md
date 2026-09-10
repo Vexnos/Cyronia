@@ -54,4 +54,7 @@ One day, the Curators were ready to unveil their most sophisticated technology y
             - [VEIL Dwellers](./Lore/Tech/VEIL/veil_dwellers.md)
             - [VEIL](./Lore/Tech/VEIL/veil.md)
 - Size
-    - [All Planets](./Size/Planets/all_planets.md)
+    - Planets
+        - [All Planets](./Size/Planets/all_planets.md)
+    - Ships
+        - [Ships](./Size/Ships/ships.md)
