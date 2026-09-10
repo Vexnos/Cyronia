@@ -2,7 +2,7 @@
 ![The Nexus](../src/locations/Nexus_BlueGiant.png)
 
 ## Description
-The Nexus is the homeworld of the Niox. A formerly temperate world, now transformed into an Ecumenopolis. The world is constructed in hexagonal segments that form into a shell with air in between each shell. This image depicts the partial construction of Shell 3.
+The Nexus is the homeworld of the Niox which orbits a B Class Star. A formerly temperate world, now transformed into an Ecumenopolis. The world is constructed in hexagonal segments that form into a shell with air in between each shell. This image depicts the partial construction of Shell 3.
 
 The centre of the planet features the most famous cultural forum of the species: The Nexus. A gathering where political and governmental decisions are made.
 
