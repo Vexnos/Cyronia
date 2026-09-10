@@ -18,7 +18,7 @@ What does this look like in practise? You cannot enter VEIL in low-planetary orb
 Entering VEIL takes mere seconds for most standard capital ships.
 
 ## Levels
-VEIL exists in multiple levels. The deeper the level, the faster you travel across the galaxy. The [Curators](../../../Factions/Curators/curators.md) reached all 9 VEIL levels, but practically only used up to VEIL-5 as the cost for travelling to levels deeper than VEIL-5 far outweighed any time gain in interstellar travel. The current galaxy is at VEIL-2, they have not confirmed the existence of higher levels, but suspect they exist.
+VEIL exists in multiple levels. The deeper the level, the faster you travel across the galaxy. The [Curators](../../../Factions/Curators/curators.md) reached all 9 VEIL levels, but practically only used up to VEIL-5 as the cost for travelling to levels deeper than VEIL-5 far outweighed any time gain in interstellar travel. The current galaxy is at VEIL-2, they have not confirmed the existence of deeper levels, but suspect they exist.
 
 ## VEIL Speeds
 Speed Formula: `y=100x^4+300`
