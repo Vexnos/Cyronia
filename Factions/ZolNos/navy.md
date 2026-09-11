@@ -13,3 +13,10 @@ Where 'A' is the class of the ship and 'B' is the subclass.
 | Destroyers | Deros Class | Stars<br>Planets | | Destroyers fill the escort/patrol role of the navy.
 | Carriers | Atlas Class | Nebulae | | Never seen solo. Carriers escort fleets with a large fighter complement.
 | Frigates | Peitho Class | Cities | | While not usually seen solo, they are sometimes used to scout low-stakes areas in the galaxy.
+
+## Lore
+### Demolitors
+Zol'Nos Demolitor Colossae were based off Curator planetary mining technology. Some parts from said technology were even adapted in the final colossus design. Once Emperor Matrixier realised the potential of these weapons, he ordered immediate large-scale production of them. Unfortunately for the Zol'Nos, only three were constructed before the shipyards at Tal'Zhar were discovered by enemy forces. A fourth Demolitor was almost finished, but had to be scuttled in order to not leak designs to the enemy.
+
+### Kronos Cruisers
+Until the Cyroni constructed their Vulkar Destroyer, the Zol'Nos Kronos class was infamous among the galaxy for sporting the furthest ranged main-cannon. The Zol'Nos were very clever at maximizing their reactor outputs, allowing such a feat.
