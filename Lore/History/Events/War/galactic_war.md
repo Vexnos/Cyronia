@@ -74,7 +74,7 @@ The Emperor of the Zol’Nos declares ‘No Surrender’.
 ## Post-War
 ![Post War](../../../../src/maps/Map_8.png)
 
-In a huge calculated gamble, the Cyroni move the Ark to Zol’Nozh allowing entry into the forge. The Zol’Nos fight hard against the combined forces of the galaxy. The forge is ultimately destroyed.
+In a huge calculated gamble, the Cyroni move the Ark to Zol’Nozh allowing entry into the [Forge](../../../Tech/the_forge.md). The Zol’Nos fight hard against the combined forces of the galaxy. The forge is ultimately destroyed.
 
 Zol’Nozh falls and the Zol’Nos empire surrenders. Their territory is partitioned between the four main powers.
 
