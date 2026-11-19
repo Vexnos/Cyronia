@@ -40,6 +40,7 @@ One day, the Curators were ready to unveil their most sophisticated technology y
     - [Otoki](./Locations/otoki.md)
     - [Ottokaara](./Locations/ottokaara.md)
     - [Zol'Nozh](./Locations/zolnozh.md)
+    - [The Trove](./Locations/trove.md)
 - Lore
     - History
         - Events
