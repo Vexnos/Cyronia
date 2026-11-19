@@ -11,7 +11,7 @@ In the centre of the ring lies the Citadel, a large superstructure; about the le
 The Ark rotates clockwise on its X axis every 30 hours to provide a day/night cycle.
 
 ## Propulsion
-The Ark is the largest object capable of [VEIL](../Lore/Tech/VEIL/veil.md) travel. Being able to achieve a max depth of VEIL-2. It should be noted that this requires immense power and the Ark will need time to recharge before it can enter VEIL again.
+The Ark is the largest known object capable of [VEIL](../Lore/Tech/VEIL/veil.md) travel. Being able to achieve a max depth of VEIL-2. It should be noted that this requires immense power and the Ark will need time to recharge before it can enter VEIL again.
 
 The ring segment houses 18 sublight torsion drives and 6 EBTs for VEIL.The Ark runs off of Vacuum Energy (the primary power source of the Curators), but also has 12 Large-Scale Quantum Reactors as a backup power source. 
 
